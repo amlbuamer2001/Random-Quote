@@ -1,0 +1,29 @@
+body{
+    font-family: 'Noto Serif', serif;
+}
+div{
+    /* background-image: linear-gradient(#f8b0ca,#e94c88); */
+    background-color: #fdb5d1;
+
+}
+h1{
+    color:#b30145 !important;
+
+}
+.btn{
+    background-image: linear-gradient(#f7bed4,#ff4b90);
+    border-color:#fffffff1;
+    color: rgb(54, 54, 54);
+    /* color:#b30145; */
+}
+.btn:hover{
+    color:#b30145;
+}
+.gray{
+    color: rgb(77, 72, 72);
+}
+.quote{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    color: #b30145;
+}

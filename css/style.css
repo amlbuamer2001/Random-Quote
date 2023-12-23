@@ -16,8 +16,6 @@ div{
 h1{
     color:#b30145 !important;
     font-size: 50px;
-
-
 }
 .btn{
     background-image: linear-gradient(#f7bed4,#ff4b90);
@@ -37,3 +35,17 @@ h1{
     color: #b30145;
 }
 
+@media only screen and (max-width: 472px) {
+  div {
+    h1{
+        font-size: 40px;
+    }
+  }
+}
+@media only screen and (max-width: 382px) {
+  div {
+    h1{
+        font-size: 30px;
+    }
+  }
+}
